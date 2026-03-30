@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&width=675&separator=%3C&lines=console.log(%22Hello+World!+I'm+bricfer%22);%3Cconsole.warn(%22I'm+a+passionated+%26+commited+programmer%22);)](https://git.io/typing-svg)
+
 # Hi, I'm Briceida! 👋
 [![IntelliJ](https://img.shields.io/badge/intelliJ-currently-green?logo=intellijidea)](https://github.com/BricFer/wedding-app)
 [![Ûdemy](https://img.shields.io/badge/ûdemy-studying-purple?logo=udemy)](https://www.udemy.com/course/spring-security-zero-to-master/)
