@@ -1,7 +1,38 @@
-## Hi there 👋
+# Hi, I'm Briceida! 👋
+[![IntelliJ](https://img.shields.io/badge/intelliJ-currently-green?logo=intellijidea)](https://github.com/BricFer/wedding-app)
+[![Ûdemy](https://img.shields.io/badge/ûdemy-studying-purple?logo=udemy)](https://www.udemy.com/course/spring-security-zero-to-master/)
 
+I am a passionate Fullstack Developer, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and keep growing and learning.
+
+![bricfer's Stats](https://gh-readme-profile.vercel.app/api?username=BricFer&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I recently graduated and I proudly hold an Associate's Degree in Cross-Platform Application Development.
+- 🧩 When I'm not learning or practicing my skills, I love to do some puzzles, solve logic problems and/or riddles.
+- 🐕 My partner in crime is my dog, whom I deeply love.
+- 🌍 I LOVE traveling, seeing different cultures, different ways to live, and tasting so many different foods.
+
+## Tech Stack
+### Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,spring,laravel,php,tailwind&perline=5)](https://skillicons.dev)
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+### Development tools
+[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 📙 Learning Spring Security & Typescript.
+- ⚒️ Building a wedding app.
+- 🧭 Navigating through the world of React Router for seamless page transitions.
+
+## 📩 Contact
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briceidafernandez/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bric.fernandez@gmail.com)
+
+<p align="center"><sub>Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀<br />Made with ❤️<br/>Copyright © 2026-present BricFer</sub></p>
 <!--
-**BricFer/bricfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
