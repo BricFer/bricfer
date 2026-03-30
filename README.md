@@ -19,7 +19,7 @@ I am a passionate Fullstack Developer, driven by a curiosity for technology and 
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 ### Development tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,eclipse,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,eclipse,git,github&perline=5)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
