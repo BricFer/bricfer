@@ -17,17 +17,17 @@ I am a passionate Fullstack Developer, driven by a curiosity for technology and 
 
 ## Tech Stack
 ### Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,kotlin,spring,laravel,php,tailwind&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,flutter,kotlin,spring,laravel,php,tailwind&perline=5)](https://skillicons.dev)
 ### Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 ### Development tools
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,eclipse,git,github&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,idea,eclipse,git,github,firebase&perline=5)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
-- 📙 Learning Spring Security & Typescript.
-- ⚒️ Building a wedding app.
-- 🧭 Navigating through the world of React Router for seamless page transitions.
+- 📙 Learning Flutter.
+- ⚒️ Building a Personal Finance App.
+- 🧭 Navigating through the world of Mobile Apps using Flutter.
 
 ## 📩 Contact
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/briceidafernandez/)
